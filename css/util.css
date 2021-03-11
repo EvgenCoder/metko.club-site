@@ -3585,6 +3585,7 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 */
 .w-size1 {
 	width: 161px;
+	margin-left: -5vh;
 }
 
 .w-size2 {
