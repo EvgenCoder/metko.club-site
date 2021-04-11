@@ -1660,7 +1660,7 @@ li.sale-noti > a {
 */
 .block1-wrapbtn {
   position: absolute;
-  left: 50%;
+  left: 45%;
   -webkit-transform: translateX(-50%);
   -moz-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
